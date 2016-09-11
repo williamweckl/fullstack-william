@@ -1,32 +1,14 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About William Weckl
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: abstract-15.png
 comments: false
-modified: 2016-02-01
+modified: 2016-09-11
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+Brasileiro, 25 anos, pai de família, um filho, amante dos e-sports e entusiasta do desenvolvimento web.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+Como profissional, gosto de trabalhar em equipe para resolver problemas da melhor maneira possível. Gosto de criar ou encontrar ferramentas que me ajudem a ser mais produtivo e organizado.
 
-## HPSTR Features:
-
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
-
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+Apaixonado por  desenvolvimento web, encontrei no **Ruby on Rails** e no **Ember.js** o que estava faltando na minha caixa de ferramentas de desenvolvedor. Trabalhando com tecnologia desde 2006 e com desenvolvimento de software desde 2010, amo o que faço.
