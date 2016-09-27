@@ -15,7 +15,7 @@ No meu caso desenvolvendo com Rails o custo acaba sendo a performance. Todos sab
 
 Sempre tive a cabeça aberta para conhecer coisas novas, com tecnologia não seria diferente.
 
-Fim de semana passado fui na RubyConf 2016 pela empresa em que trabalho, a Resultados Digitais. Para quem não conhece, a RubyConf é um evento que vai muito além do Ruby. Acredito que é assim pelo fato da comunidade ser uma comunidade mais aberta. Acontece que linguagens como Elixir e Go começaram a ter um espaço maior.
+Fim de semana passado fui na [RubyConf 2016](http://www.rubyconf.com.br/) pela empresa em que trabalho, a [Resultados Digitais](http://resultadosdigitais.com.br/). Para quem não conhece, a RubyConf é um evento que vai muito além do Ruby. Acredito que é assim pelo fato da comunidade ser uma comunidade mais aberta. Acontece que linguagens como Elixir e Go começaram a ter um espaço maior.
 
 Assisti à algumas palestras sobre Elixir e o framework Phoenix. Apesar de eu já ter ouvido falar bastante em Elixir no passado, trocar experiências a respeito durante o evento me fez pensar... Por quê não unir performance e produtividade? Essa é a proposta do Phoenix.
 
