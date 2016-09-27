@@ -25,6 +25,7 @@ Comecei a usar Phoenix para desenvolver um projeto pessoal, é uma idéia antiga
 
 - Migrar do backend Rails para Phoenix gradualmente
 - Construir uma API json com Phoenix
+- Usar alguma biblioteca de upload de imagens
 - Deploy no Heroku
 - Integrar com auth0
 - Monitoramento de performance por meio de alguma ferramenta
