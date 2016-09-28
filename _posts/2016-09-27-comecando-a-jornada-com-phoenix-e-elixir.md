@@ -28,7 +28,7 @@ Comecei a usar Phoenix para desenvolver um projeto pessoal, é uma idéia antiga
 - Usar alguma biblioteca de upload de imagens
 - Upload de imagens no Amazon S3
 - Deploy no Heroku
-- Integrar com auth0
+- Autenticação por token
 - Monitoramento de performance por meio de alguma ferramenta
 
 Ainda não sei aonde a comunidade de Elixir e Phoenix podem chegar, mas tenho boas expectativas e vou postando meu progresso.
